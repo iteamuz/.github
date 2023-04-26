@@ -7,7 +7,8 @@
 ### ⚡️ Общение. Развитие. Прогресс
 
 ## Полезные ссылки:
-* 💬 [Чат ИТ клуба в Telegram](https://t.me/iteamuz_grou)
+* 💬 [Чат ИТ клуба в Telegram](https://t.me/iteamuz_group)
 * ℹ️ По всем вопросам
-    * [Рашид(CEO)](https://t.me/rashaprogramming)
-    * [Саркор(COO)](https://t.me/sigmanaxoy)
+    * [Абдурашид( Founder )](https://t.me/rashaprogramming)
+    * [Илья ( Co-Founder )](https://t.me/makov_i)
+    * [Саркор( CIO )](https://t.me/sigmanaxoy)
