@@ -10,5 +10,5 @@
 ## Полезные ссылки:
 ### * 💬 [Чат ИТ клуба в Telegram](https://t.me/iteamuz_group)
 ### * ℹ️ По всем вопросам: 
-#####    * [Рашид(CEO)](https://t.me/rashaprogramming)
-#####     * [Саркор(COO)](https://t.me/sigmanaxoy)
+        * [Рашид(CEO)](https://t.me/rashaprogramming)
+        * [Саркор(COO)](https://t.me/sigmanaxoy)
